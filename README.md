@@ -1,19 +1,25 @@
 **LANGKAH-LANGKAH MEMBUAT REPOSITORY LOCAL PADA GITHUB DAM MEMBUAT FILE README.md**
-> ANTARA LAIN
+
+> **ANTARA LAIN**
+
 1. MEMBUAT AKUN GITHUB TERLEBIH DAHULU DI https://github.com 
 
 ![2](https://user-images.githubusercontent.com/56834389/67529286-88004580-f670-11e9-998a-dfe0ffb292e6.PNG)
  
 2. LANGKAH KE-2  PILIH FOR FREE
+
 ![Screen Shot 2018-06-24 at 20 26 23](https://user-images.githubusercontent.com/56834389/67529417-f2b18100-f670-11e9-9f73-f5e2dc91788c.png)
 
 3. JIKA SUDAH MELEWATI STEP 2 DAN 3, MASUK ATAU LOGIN KE DALAM GITHUB.COM SESUAI USER NAME DAN EMAIL KAMU
+
 ![Screen Shot 2018-06-24 at 20 23 13](https://user-images.githubusercontent.com/56834389/67529727-da8e3180-f671-11e9-9b45-e3be7a45b0fe.png)
 
 4. CEK PADA GMAIL ANDA UNTUK VERIFY AKUN ANDA TERSEBUT
+
 ![Screenshot (28)](https://user-images.githubusercontent.com/56834389/67529875-4a9cb780-f672-11e9-86d9-0e1953e8ca39.png)
 
 5. SETELAH ITU, MASUK KE GITHUB.COM TERSEBUT DAN KLIK TANDA (+) UNTUK MEMBUAT REPOSITORY BARU
+
 ![Screenshot (30)](https://user-images.githubusercontent.com/56834389/67530263-6a80ab00-f673-11e9-9f2d-6a538e1b7b7c.png)
 
 - ISI BAGIAN TERSEBUT SESUAI APA YANG KAMU INGIN BUAT CONTOH " LATIHAN1PYTHON "
@@ -21,43 +27,55 @@
 ![Screenshot (31)](https://user-images.githubusercontent.com/56834389/67530650-9e100500-f674-11e9-90cd-bb3083433939.png)
 
 -  TAMPILAN DARI REPOSITORY YANG BARU
+
 ![Screenshot (4)](https://user-images.githubusercontent.com/56834389/67530808-25f60f00-f675-11e9-8b65-112cb44d2761.png)
 
 6. DOWNLOAD SOFTWARE GIT DI " Git-scm.com" SESUSAI DENGAN BIT YANG ADA DI LAPTOP KALIAN. KLIK FILE TERSEBUT UNTUK MENGINSTALL SOFTWARE GIT.
 
 - MUNCULAH  TAMPILAN LICENSE DARI GIT TERSEBUT, LALU KLIK NEXT
+
 ![Screenshot (7)](https://user-images.githubusercontent.com/56834389/67531110-27740700-f676-11e9-87aa-c341228b4826.png)
 
 - SELANJUTNYA TENTUKAN LOKASI FILE FOLDER UNTUK MENGISNTALL GIT, LALU KLIK NEXT
+
 ![Screenshot (8)](https://user-images.githubusercontent.com/56834389/67531211-97828d00-f676-11e9-8f0a-7561d9a35304.png)
 
 - PILIH KOMPONEN YANG AKAN DI INSTALL TERSEBUT, LALU KLIK NEXT
+
 ![67455878-24b6e900-f659-11e9-9cd5-86af5af05737](https://user-images.githubusercontent.com/56834389/67531564-044a5700-f678-11e9-99e6-57c24e04e8a4.jpg)
 
 - TENTUKAN NAMA FOLDER SHORTCUT UNTUK DI START MENU NANTINYA, LALU KLIK NEXT
+
 ![Screenshot (8)](https://user-images.githubusercontent.com/56834389/67531676-7622a080-f678-11e9-8899-1d36a5cdcaef.png)
 
 - PILIH EDITOR UNTUK KAMU GUNAKAN NANTI, LALU KLIK NEXT
+
 ![Screenshot (9)](https://user-images.githubusercontent.com/56834389/67531725-9fdbc780-f678-11e9-849d-dd329d483a28.png)
 
 - MENYESUAIKAN **PATH** ENVIRONMENT GIT TERSEBUT, LALU KLIK NEXT
+
 ![Screenshot (10)](https://user-images.githubusercontent.com/56834389/67531795-e3cecc80-f678-11e9-88e6-e94dd9d8986b.png)
 
 - MEMILIH JENIS KONEKSI, LALU KLIK NEXT
+
 ![Screenshot (11)](https://user-images.githubusercontent.com/56834389/67531899-41fbaf80-f679-11e9-8db2-5efec31e90d9.png)
 
 - MENGATUR KONVERSI AKHIR BARIS PADA GIT TERSEBUT, LALU KLIK NEXT
+
 ![Screenshot (14)](https://user-images.githubusercontent.com/56834389/67532258-7a4fbd80-f67a-11e9-9b85-f91e8e2e8161.png)
 
 - MENGATUR TERMINAL YANG AKAN DIGUNAKAN DENGAN **GIT BASH**, LALU KLIK NEXT
+
 ![Screenshot (15)](https://user-images.githubusercontent.com/56834389/67532309-a408e480-f67a-11e9-9aac-13e528291839.png)
 
-- MEMILIH OPSI TAMBAHAN YANG DIPERUKAN, LALU KLIK INSTALL 
+- MEMILIH OPSI TAMBAHAN YANG DIPERUKAN, LALU KLIK INSTALL
+ 
 ![Screenshot (16)](https://user-images.githubusercontent.com/56834389/67532357-cac71b00-f67a-11e9-9086-c4d1d9ec6e69.png)
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/56834389/67532437-0e218980-f67b-11e9-9b88-ac268603aadc.png)
 
 - TUNGGU SAMPAI PROSES MENGINSTALL GIT SELESAI
+
 ![Screenshot (18)](https://user-images.githubusercontent.com/56834389/67532523-59d43300-f67b-11e9-84da-36cb6f37bee6.png)
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/56834389/67532537-6c4e6c80-f67b-11e9-9925-6d53dc8f02f1.png)
@@ -65,33 +83,45 @@
 - **GIT** SUDAH TERINSTALL DI KOMPUTER KAMU
 
 7. CEK **GIT** TERSEBUT APAKAH SUDAH DAPAT DIGUNAKAN ATAU BELUM DENGAN CARA MEMBUKA **COMMAND PROMPT** DAN KETIK git --version
+
 ![Screenshot (20)](https://user-images.githubusercontent.com/56834389/67532868-ce5ba180-f67c-11e9-90c7-fb81b444664d.png)
+
 (JIKA MUNCUL VERSI **GIT** TERSEBUT, MAKA **GIT** SIAP DIGUNAKAN)
 
 8. BUKA **GIT BASH** DENGAN KLIK KANAN DAN PILIH **GIT BASH**, PADA SAAT PERTAMA KALI MENGUNAKAN **GIT** PERLU DILAKUKANNYA KONFIGURASI _USER.NAME_ DAN _ USER.EMAIL_.
+
 ![Screenshot (6)](https://user-images.githubusercontent.com/56834389/67533139-c8b28b80-f67d-11e9-92d3-293eef1e3468.png)
 
 - KONFIGURASIKAN DENGAN CARA KETIK, git config --global user.name " nama_user" TEKAN ENTER DAN KETIK KEMBALI git config --global user.email "email_user" CONTOH
+
 ![Screenshot (21)](https://user-images.githubusercontent.com/56834389/67533322-673eec80-f67e-11e9-9ec0-8f91cf497f5d.png)
 
 9. BUAT DIREKTORI BARU DENGAN MENGGUNAKAN PERINTAH _mkdir_ LALU _cd_ , CONTOH
+
 ![Screenshot (23) - Copy](https://user-images.githubusercontent.com/56834389/67533643-af124380-f67f-11e9-89d5-6a27562d3c31.png)
 
 10. LALU JALANKAN DENGAN PERINTAH _git init_ UNTUK MEMBUAT FILE KOSONG BERFORMAT **GIT**
+
 ![Screenshot (23)](https://user-images.githubusercontent.com/56834389/67533863-68711900-f680-11e9-873c-ff1089b8eb41.png)
 
 11. LALU BUAT SATU FILE BERNAMA README.md DENGAN MASUKAN PERINTAH " echo "#nama tugas kamu" >> README.md , CONTOH
+
 ![Screenshot (32)](https://user-images.githubusercontent.com/56834389/67534220-00233700-f682-11e9-8841-5e18dbabf43b.png)
 
 12. UNTUK MENAMBAHKAN FILE README.md PADA REPOSITORY LOKAL, KAMU DAPAT MENGGUNAKAN PERINTAH " _git add_ " CONTOH
+
 ![Screenshot (25) - Copy](https://user-images.githubusercontent.com/56834389/67534394-c30b7480-f682-11e9-87af-3bb65284273b.png)
 
 13. KETIK PERINTAH "_git commit -m_ " UNTUK MEMBUAT ATAU MENYIMPAN DATA ATAU PERUBAHAN DATA YANG ADA KE-DALAM REPOSITORY YANG KITA BUAT. CONTOH
+
 ![Screenshot (25)](https://user-images.githubusercontent.com/56834389/67534581-a7ed3480-f683-11e9-888c-f5f5ccbe25ec.png)
 
-14. KEMBALI KE WEB GITHUB KAMU YANG SUDAH KAMU BUAT, PADA BAGIAN _QUICK SETUP_ TERDAPAT URL ATAU ALAMAT YANG NANTINYA KITA GUNAKAN KEMBALI DENGAN PERINTAH " _git remote add origin (URL di QUICK SETUP)_ ", DENGAN CONTOH, 
+14. KEMBALI KE WEB GITHUB KAMU YANG SUDAH KAMU BUAT, PADA BAGIAN _QUICK SETUP_ TERDAPAT URL ATAU ALAMAT YANG NANTINYA KITA GUNAKAN KEMBALI DENGAN PERINTAH " _git remote add origin (URL di QUICK SETUP)_ ", DENGAN CONTOH,
+ 
 ![Screenshot (4) - Copy](https://user-images.githubusercontent.com/56834389/67534941-50e85f00-f685-11e9-83cc-e3101f2724e3.png)
+
 - MASUKAN PERINTAH DIATAS DENGAN MEMASUKAN URL TERSEBUT
+
 ![Screenshot (26)](https://user-images.githubusercontent.com/56834389/67535076-dbc95980-f685-11e9-9675-d95754e6d022.png)
 
 15. UNTUK MENGIRIM PERUBAHAN LOCAL REPOSITORY KE SERVER GUNAKAN PERINTAH " _git push -u origin master_ ", CONTOH
